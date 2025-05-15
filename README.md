@@ -3,8 +3,10 @@
 A modern Android application that provides a seamless streaming experience for HBO Max content. This app is designed to bring the best of HBO Max's content library to your Android device with a beautiful and intuitive user interface.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5982f64f-d41b-4cdc-b146-28615ea91559" alt="homepage" width="200" height="430" style="margin-right: %5;"/>
-  <img src="https://github.com/user-attachments/assets/55f8ee24-dcfe-45fb-8fd3-38aee7876ebb" alt="moviedetail" width="200" height="430" style="margin-left: %5;"/>
+  <img src="https://github.com/user-attachments/assets/98e737c8-b7df-4201-9990-01f9ac558d57" alt="homepage" width="200" height="430" style="margin-right: %5;"/>
+  <img src="https://github.com/user-attachments/assets/5ce149cc-dbe1-408a-bec6-2e37521b2ee9" alt="moviedetail" width="200" height="430" style="margin-left: %5;"/>
+  <img src="https://github.com/user-attachments/assets/c5bf7c6b-f98c-4e05-902a-70382ccb53dd" alt="moviedetail" width="200" height="430" style="margin-left: %5;"/>
+  <img src="https://github.com/user-attachments/assets/d56e978b-9d0e-4620-b74d-c8d284e5acf8" alt="moviedetail" width="200" height="430" style="margin-left: %5;"/>
 </p>
 
 
