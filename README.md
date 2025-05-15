@@ -2,13 +2,6 @@
 
 A modern Android application that provides a seamless streaming experience for HBO Max content. This app is designed to bring the best of HBO Max's content library to your Android device with a beautiful and intuitive user interface.
 
-## 🛠️ Technical Stack
-
-- Kotlin
-- Room for local database
-- Hilt for dependency injection
-- MVVM Architecture
-
 ## 📋 Prerequisites
 
 - Android Studio Arctic Fox or newer
