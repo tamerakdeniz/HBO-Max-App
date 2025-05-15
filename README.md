@@ -2,6 +2,12 @@
 
 A modern Android application that provides a seamless streaming experience for HBO Max content. This app is designed to bring the best of HBO Max's content library to your Android device with a beautiful and intuitive user interface.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5982f64f-d41b-4cdc-b146-28615ea91559" alt="homepage" width="200" height="430" style="margin-right: %5;"/>
+  <img src="https://github.com/user-attachments/assets/55f8ee24-dcfe-45fb-8fd3-38aee7876ebb" alt="moviedetail" width="200" height="430" style="margin-left: %5;"/>
+</p>
+
+
 ## 📋 Prerequisites
 
 - Android Studio Arctic Fox or newer
